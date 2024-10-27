@@ -1,5 +1,5 @@
 <?php 
-require_once 'php/encabezado.php';
+require_once 'encabezado.php';
 ?>
 <!descripcion y introducion!>
 
@@ -7,7 +7,7 @@ require_once 'php/encabezado.php';
         <section class="justify-content-between">
                 <section class="d-flex flex-md-row flex-sm-column ">
                     <figure class="figure w-25 portfolio-item border border-5 shadow p-3 mb-3 mx-auto">
-                    <img src="img/fotodeperfil.jpg" class="img-thumbnail border border-light rounded" alt="foto de perfil">
+                    <img src="fotodeperfil.jpg" class="img-thumbnail border border-light rounded" alt="foto de perfil">
                     </figure>
 
                     <section class="portfolio-item border border-5 shadow p-3 mb-3  rounded w-75 mx-auto">
@@ -37,11 +37,11 @@ require_once 'php/encabezado.php';
                     </section>
                     <section class="container">
                         <section class="d-flex flex-row">
-                            <figure class="w-25"><img src="img/C_Programming_Language.png" alt="logo de  C" class="img-thumbnail border border-light"></figure>
-                            <figure class="w-25"><img src="img/css-3.svg" alt="logo de CSS" class="img-thumbnail border border-light"></figure>
-                            <figure class="w-25"><img src="img/html-5.svg" alt="logo de  html5" class="img-thumbnail border border-light"></figure>
-                            <figure class="w-25"><img src="img/javascript.svg" alt="logo de Javascript" class="img-thumbnail border border-light"></figure>
-                            <figure class="w-25"><img src="img/php.svg" alt="logo de PHP" class="img-thumbnail border border-light"></figure>
+                            <figure class="w-25"><img src="C_Programming_Language.png" alt="logo de  C" class="img-thumbnail border border-light"></figure>
+                            <figure class="w-25"><img src="css-3.svg" alt="logo de CSS" class="img-thumbnail border border-light"></figure>
+                            <figure class="w-25"><img src="html-5.svg" alt="logo de  html5" class="img-thumbnail border border-light"></figure>
+                            <figure class="w-25"><img src="javascript.svg" alt="logo de Javascript" class="img-thumbnail border border-light"></figure>
+                            <figure class="w-25"><img src="php.svg" alt="logo de PHP" class="img-thumbnail border border-light"></figure>
                         </section>
                     </section>
                 </section>
