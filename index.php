@@ -59,5 +59,5 @@ require_once 'encabezado.php';
     </section>
 
     <?php 
-require_once 'php/footer.php';
+require_once 'footer.php';
 ?>
