@@ -1,0 +1,54 @@
+/*cambios generales*/
+
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+footer {
+    background-color: #373a4186;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+}
+
+img.foto-perfil {
+    height: 0.1vh;
+}
+.portfolio-item {
+    transition: transform 0.3s ease-in-out;
+}
+
+.portfolio-item:hover {
+    transform: scale(1.05);
+}
+.portfolio-item:focus {
+    transform: scale(1.05);
+}
+
+/*
+@media all and (min-width:320px){
+
+}
+
+@media all and (min-width:480px){
+
+}
+@media all and (min-width:768px){
+
+}
+
+@media all and (min-width:1024px){
+
+}
+
+@media all and (min-width:1200px){
+
+}
+*/
+
